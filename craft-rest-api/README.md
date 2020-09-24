@@ -3,8 +3,8 @@
 ### Prerequisites
 
 * `python >= 3.3.0`
-* pip install py-healthcheck
-* pip install flask
+* `pip install py-healthcheck`
+* `pip install flask`
 
 ### Build Docker Image
 ```bash
